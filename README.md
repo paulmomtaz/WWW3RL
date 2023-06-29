@@ -10,3 +10,7 @@ The page is built with [Hugo](https://github.com/gohugoio/hugo), a Go based fast
 ### Blog entries
 ### Partners
 ## Deployment
+
+## Preview
+
+![W3RL web preview screenshot](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true))
