@@ -13,4 +13,4 @@ The page is built with [Hugo](https://github.com/gohugoio/hugo), a Go based fast
 
 ## Preview
 
-![W3RL web preview screenshot](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true))
+![Web3 Page Preview Screenshot](https://github.com/TobiasCGoetz/WWW3RL/blob/0116b1f6688510feb43e046868da13aaa746aefe/preview.png)
