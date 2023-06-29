@@ -1,1 +1,16 @@
-themes/
+w3rl/themes/
+w3rl/node_modules/
+
+# Generated files by hugo
+w3rl/public/
+w3rl/resources/_gen/
+w3rl/assets/jsconfig.json
+w3rl/hugo_stats.json
+
+# Executable may be added to repository
+hw3rl/ugo.exe
+hw3rl/ugo.darwin
+hw3rl/ugo.linux
+
+# Temporary lock file while building
+/w3rl/.hugo_build.lock
