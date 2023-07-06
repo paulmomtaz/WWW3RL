@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Elate theme"
+title = "Web3 Research Lab"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -43,8 +43,8 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "Do something you love."
-    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
+    title = "TUM’s Web3 Research Lab"
+    subtitle = 'We bundle Germany’s most productive blockchain researchers and provide teaching, talent sourcing, and advisory for students, companies, and policymakers, respectively.'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -56,7 +56,7 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
-    img = "img_7.jpg"
+    img = "momtaz.webp"
 
   [[params.intro.item]]
     title = "Develop"
