@@ -1,3 +1,0 @@
-+++
-author = "Prof. Dr. Momtaz"
-+++
