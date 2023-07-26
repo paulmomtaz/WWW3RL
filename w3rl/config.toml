@@ -287,3 +287,31 @@ theme = "hugo-elate-theme"
         ["icon-facebook", "#facebook"],
         ["icon-youtube", "#youtube"]
       ]
+
+[deployment]
+order = [".jpg$", ".gif$"]
+
+[[deployment.targets]]
+name = "S3deployment"
+URL = "s3://web3rl?region=eu-central-1"
+
+[[deployment.matchers]]
+# Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+# Set custom content type for /sitemap.xml
+pattern = "^sitemap\\.xml$"
+contentType = "application/xml"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
