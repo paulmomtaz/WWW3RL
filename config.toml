@@ -9,8 +9,8 @@ theme = "hugo-elate-theme"
   custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = "Prof. Dr. Momtaz"
-  description = "TUM’s Web3 Research Lab"
+  author = "Prof. Dr. Dr. Momtaz"
+  description = "TUM Web3 Research Lab"
   email = "karin.papavlassopoulos(at)tum.de"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
@@ -43,7 +43,7 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "TUM’s Web3 Research Lab"
+    title = "TUM Web3 Research Lab"
     subtitle = 'We bundle Germany’s most productive blockchain researchers and provide teaching, talent sourcing, and advisory for students, companies, and policymakers, respectively.'
  
   # Intro section
