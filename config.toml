@@ -183,15 +183,15 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      name = "Prof. Dr. Dr. Paul P. Momtaz"
+      position = "Professor of Entrepreneurial Finance at TUM"
+      description = ""
       img = "person1.jpg"
       alt = "Person1"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", ""],
         ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/paulmomtaz/"]
       ]
 
     [[params.about.item]]
