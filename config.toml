@@ -130,23 +130,36 @@ theme = "hugo-elate-theme"
     title = "Testimonials"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
+
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      quote = "&ldquo;With the Web3 Research Lab, Munich now hosts a European powerhouse to advance education and research in web3. I look forward to a flourishing web3 ecosystem in Munich.&rdquo;"
+      person = 'Dr. David An, Partner Dracoon Ventures https://www.linkedin.com/in/davidan'
       img = "person1.jpg"
-      alt = "Person1"
+      alt = "Dr. David An"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
-      alt = "Person2"
+      quote = "&ldquo;Prof. Momtaz and his team are doing globally leading research on blockchain in business with high practical relevance. It is great that the Web3 Research Lab provides an institutional platform to bridge academia and practice.&rdquo;"
+      person = 'Paul Kammerer, CCO www.fincite.de'
+      img = "person1.jpg"
+      alt = "Paul Kammerer"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      quote = "&ldquo;We are proud to have the Web3 Research Lab at TUM as our primary partner for the MunichX accelerator. They are going to play a pivotal role in helping us fostering Munich's Web3 ecosystem by supporting the most promising founders of tomorrow.&rdquo;"
+      person = 'Simon Dedic, Partner www.moonrockcapital.io'
+      img = "person1.jpg"
+      alt = "Simon Dedic"
+
+    [[params.testimonials.item]]
+      quote = "&ldquo; PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER .&rdquo;"
+      person = 'Florian Peter, VP https://greenfield.bnbchain.org'
       img = "person3.jpg"
-      alt = "Person3"
+      alt = "Florian Peter"
+
+    [[params.testimonials.item]]
+      quote = "&ldquo;As an alum of TUM, I'm thrilled to see the TUM Web3 Research Lab driving innovation and education in the blockchain realm. TUM breeds great blockchain minds. bitsCrunch is delighted that the Web3 Research Lab is consolidating educational initiatives within and beyond the TUM ecosystem.&rdquo;"
+      person = 'Vijay Pravin, CEO https://bitscrunch.com/'
+      img = "person1.jpg"
+      alt = "Vijay Pravin"
     
 
 
