@@ -20,9 +20,9 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "Web3 Research Lab"
     home = "Home"
-    work = "Work"
+    work = "Partners"
     testimonials = "Testimonials"
-    services = "Services"
+    # services = "Services"
     about = "About"
     contact = "Contact"
 
@@ -84,51 +84,50 @@ theme = "hugo-elate-theme"
   # Work section
   [params.work]
     enable = true
-    title = "Work"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+    title = "Partners"
+    description = "Our partners support us in exploring the future of our digital society."
 
     [[params.work.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
+      img = "Deutsche_Bundesbank_Logo.png"
+      alt = "Deutsche Bundesbank"
+      title = "Deutsche Bundesbank"
+      subtitle = ""
 
     [[params.work.row]]
-      img = "work_2.jpg"
-      alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
+      img = "Google_Logo.png"
+      alt = "Google"
+      title = "Google"
+      subtitle = ""
 
     [[params.work.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
+      img = "CryptoFundResearch_Logo.png"
+      alt = "CryptoFundResearch"
+      title = "CryptoFundResearch"
+      subtitle = ""
 
     [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
+      img = "Moonrock_Capital_Logo.jpg"
+      alt = "Moonrock Capital"
+      title = "Moonrock Capital"
+      subtitle = ""
 
     [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
+      img = "FIRM_Logo.jpg"
+      alt = "Frankfurter Institut für Risikomanagement und Regulierung"
+      title = "Frankfurter Institut für Risikomanagement und Regulierung"
+      subtitle = "(FIRM)"
 
     [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
+      img = "Coinmarketcap_Logo.png"
+      alt = "Coinmarketcap"
+      title = "Coinmarketcap"
+      subtitle = ""
 
   # Testimonials section
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = ""
 
 
     [[params.testimonials.item]]
@@ -166,28 +165,35 @@ theme = "hugo-elate-theme"
 
   # Services section
   [params.services]
-    enable = true
-    title = "Services"
+    enable = false
+    title = "Partners"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Deutsche Bundesbank"
+      description = ""
       icon = "icon-anchor"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Frankfurter Institut für Risikomanagement und Regulierung (FIRM)"
+      description = ""
       icon = "icon-layers2"
+
     [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Google"
+      description = ""
       icon = "icon-video2"
 
-      [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+    [[params.services.item]]
+      title = "Coinmarketcap"
+      description = ""
       icon = "icon-monitor"
+
+    [[params.services.item]]
+      title = "Moonrock Capital"
+      description = ""
+      icon = "icon-monitor"
+
 
   # About section
   [params.about]
@@ -199,8 +205,8 @@ theme = "hugo-elate-theme"
       name = "Prof. Dr. Dr. Paul P. Momtaz"
       position = "Professor of Entrepreneurial Finance at TUM"
       description = ""
-      img = "person1.jpg"
-      alt = "Person1"
+      img = "momtaz.webp"
+      alt = "Prof. Dr. Dr. Paul P. Momtaz"
       social = [
         ["icon-twitter", ""],
         ["icon-facebook", "#"],
@@ -275,14 +281,14 @@ theme = "hugo-elate-theme"
     map = true
     form = true
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = ""
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-home", "Arcisstr. 21, 80333 Munich, Germany"],
+        ["icon-phone", "+49 (0) 89 / 289 - 25489"],
+        ["icon-envelope", "web3@mgt.tum.de"],
+        ["icon-globe", '<a href="http:s//web3rl.com" target="_blank">web3rl.com</a>']
       ]
 
     name = "Name"
@@ -294,7 +300,7 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
     links = [
         ["icon-twitter", "#twitter"],
         ["icon-facebook", "#facebook"],
@@ -302,7 +308,7 @@ theme = "hugo-elate-theme"
       ]
 
 [deployment]
-order = [".jpg$", ".gif$"]
+order = [".jpg$", ".jpeg$", ".webp$", ".gif$"]
 
 [[deployment.targets]]
 name = "S3deployment"
