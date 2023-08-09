@@ -158,7 +158,7 @@ theme = "hugo-elate-theme"
     [[params.testimonials.item]]
       quote = "&ldquo;As an alum of TUM, I'm thrilled to see the TUM Web3 Research Lab driving innovation and education in the blockchain realm. TUM breeds great blockchain minds. bitsCrunch is delighted that the Web3 Research Lab is consolidating educational initiatives within and beyond the TUM ecosystem.&rdquo;"
       person = 'Vijay Pravin, CEO https://bitscrunch.com/'
-      img = "person1.jpg"
+      img = "pravin.jpeg"
       alt = "Vijay Pravin"
     
 
