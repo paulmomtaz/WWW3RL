@@ -8,4 +8,4 @@ assets/jsconfig.json
 hugo_stats.json
 
 # Temporary lock file while building
-/w3rl/.hugo_build.lock
+.hugo_build.lock
