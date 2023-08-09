@@ -56,7 +56,7 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
-    img = "momtaz.webp"
+    img = "img_9.jpg"
 
   [[params.intro.item]]
     title = "Develop"
@@ -199,12 +199,12 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = ""
 
     [[params.about.item]]
       name = "Prof. Dr. Dr. Paul P. Momtaz"
-      position = "Professor of Entrepreneurial Finance at TUM"
-      description = ""
+      position = "Founder of Web3 RL and Professor at TUM"
+      description = "Professor Momtaz’s expertise span the full range of tokenization. Wirtschaftswoche ranks him as the top researcher on digital assets in the DACH region."
       img = "momtaz.webp"
       alt = "Prof. Dr. Dr. Paul P. Momtaz"
       social = [
@@ -214,11 +214,11 @@ theme = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      name = "Dr. Valerie Laturnus"
+      position = ""
+      description = "Valerie’s expertise encompasses the impact of blockchain on financial markets and the use of smart contracts in various industries"
       img = "person2.jpg"
-      alt = "Person2"
+      alt = "Dr. Valerie Laturnus"
       social = [
         ["icon-twitter", "#"],
         ["icon-facebook", "#"],
@@ -226,16 +226,53 @@ theme = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      name = "Martin El-Khouri"
+      position = ""
+      description = "Martin’s expertise centres around the value drivers in Web3; he is a Senior Director at Bertelsmann Investments where he leads the BI Web3 Hub."
       img = "person3.jpg"
-      alt = "Person3"
+      alt = "Martin El-Khouri"
       social = [
         ["icon-twitter", "#"],
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
-      ]      
+      ]
+
+    [[params.about.item]]
+      name = "Johannes Fuchs"
+      position = ""
+      description = "Johannes’s expertise includes the structure and performance of token offerings."
+      img = "person3.jpg"
+      alt = "Johannes Fuchs"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]
+
+    [[params.about.item]]
+      name = "Hannes Urban"
+      position = ""
+      description = "Hannes’s expertise is in quantitative investment research where he develops machine-learning models to predict token returns."
+      img = "person3.jpg"
+      alt = "Hannes Urban"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]
+
+    [[params.about.item]]
+      name = "Yusuf Zhang"
+      position = ""
+      description = "Yusuf’s expertise is in the tokenization of real-world assets, esp. commercial real estate DAOs."
+      img = "person3.jpg"
+      alt = "Yusuf Zhang"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]
+
 
   # Counters section
   [params.counters]
