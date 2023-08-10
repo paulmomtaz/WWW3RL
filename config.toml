@@ -177,7 +177,7 @@ theme = "hugo-elate-theme"
     [[params.services.item]]
       title = "Workshops and Executive Education"
       description = "We receive many requests from corporates to provide executive education in the form of intensive workshops, both for early-career blockchain enthusiasts to C-level executives having to cope with the fast-moving trends in Web3. If you are interested in our workshop formats, please contact us through the contact form below."
-      icon = "icon-letter"
+      icon = "icon-people"
 
     [[params.services.item]]
       title = "Online Certificates at Coursera & Co"
@@ -214,7 +214,8 @@ theme = "hugo-elate-theme"
       alt = "Dr. Valerie Laturnus"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-github", "#"]
+        ["icon-github", "#"],
+        ["icon-linkedin", "#"]
       ]
 
     [[params.about.item]]
@@ -225,7 +226,7 @@ theme = "hugo-elate-theme"
       alt = "Martin El-Khouri"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-linkedin", "#"]
       ]
 
     [[params.about.item]]
@@ -236,7 +237,7 @@ theme = "hugo-elate-theme"
       alt = "Johannes Fuchs"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-linkedin", "#"]
       ]
 
     [[params.about.item]]
@@ -247,7 +248,7 @@ theme = "hugo-elate-theme"
       alt = "Hannes Urban"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-linkedin", "#"]
       ]
 
     [[params.about.item]]
@@ -258,7 +259,7 @@ theme = "hugo-elate-theme"
       alt = "Yusuf Zhang"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-linkedin", "#"]
       ]
 
 
