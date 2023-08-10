@@ -22,7 +22,7 @@ theme = "hugo-elate-theme"
     home = "Home"
     work = "Partners"
     testimonials = "Testimonials"
-    # services = "Services"
+    services = "Education"
     about = "About"
     contact = "Contact"
 
@@ -165,35 +165,29 @@ theme = "hugo-elate-theme"
 
   # Services section
   [params.services]
-    enable = false
-    title = "Partners"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    enable = true
+    title = "Education"
+    description = "Our leading digital assets education brings cutting-edge topics grounded in current research debates to various stakeholders. We educate students at all levels, from undergraduate to post-graduate programs, as well as corporate stakeholders, from early-career blockchain enthusiasts seeking foundational knowledge to C-level executives seeking knowledge about overarching trends in web3."
 
     [[params.services.item]]
-      title = "Deutsche Bundesbank"
-      description = ""
-      icon = "icon-anchor"
-
-    [[params.services.item]]
-      title = "Frankfurter Institut für Risikomanagement und Regulierung (FIRM)"
-      description = ""
+      title = "Courses at TUM"
+      description = "Our Blockchain Technology & Digital Assets courses at TUM are in high demand and attract regularly far more students that we can accommodate. If you are a TUM student, please check for announcement in the course catalogue at TUMonline. Also, sign up for Blockchain Talents @ TUM to stay in the loop about new courses, theses, and internship opportunities in the web3 space."
       icon = "icon-layers2"
 
     [[params.services.item]]
-      title = "Google"
-      description = ""
-      icon = "icon-video2"
+      title = "Workshops and Executive Education"
+      description = "We receive many requests from corporates to provide executive education in the form of intensive workshops, both for early-career blockchain enthusiasts to C-level executives having to cope with the fast-moving trends in Web3. If you are interested in our workshop formats, please contact us through the contact form below."
+      icon = "icon-letter"
 
     [[params.services.item]]
-      title = "Coinmarketcap"
-      description = ""
+      title = "Online Certificates at Coursera & Co"
+      description = "Our education is in high demand. Each months the number of requests for online education on Web3 technologies grows by +2,000 students. We are currently developing together with Coursera certificate programs to bring out leading TUM education to a global audience."
       icon = "icon-monitor"
 
     [[params.services.item]]
-      title = "Moonrock Capital"
-      description = ""
-      icon = "icon-monitor"
-
+      title = "W3RL Working Papers"
+      description = "The Web3 Research Lab is known for internationally leading research on web3. The W3RL Working Paper Series provides platform for highly specialized academic research on pressing questions of our time."
+      icon = "icon-letter"
 
   # About section
   [params.about]
