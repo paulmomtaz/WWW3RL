@@ -149,7 +149,7 @@ theme = "hugo-elate-theme"
       alt = "Simon Dedic"
 
     [[params.testimonials.item]]
-      quote = "&ldquo; PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER  PLACEHOLDER .&rdquo;"
+      quote = "&ldquo;The launch of the Web3 Research Lab and the integration of the MunichX Accelerator mark a significant step for Munich's technology ecosystem. Bringing together cutting-edge research and entrepreneurial spirit will enrich the innovation landscape, foster talent, and strengthen Munich as a location for Web3 technologies.&rdquo;"
       person = 'Florian Peter, VP https://greenfield.bnbchain.org'
       img = "person3.jpg"
       alt = "Florian Peter"
