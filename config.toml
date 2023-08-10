@@ -55,7 +55,7 @@ theme = "hugo-elate-theme"
     description = "Our MunichX accelerator program aims to support and back Web3 pioneers by providing financial resources, extensive expertise, and a network to assist founders in prioritizing their technological development."
     url = "https://www.munichx.net"
     button = "Go to MunichX"
-    icon = "icon-bulb"
+    icon = "icon-rocket"
     img = "img_9.jpg"
 
   [[params.intro.item]]
@@ -71,7 +71,7 @@ theme = "hugo-elate-theme"
     description = "Our leading digital assets education has brought cutting-edge topics grounded in current research debates to close to 1,000 students. Our stakeholders include undergraduate, graduate, and doctoral students, as well as corporate clients through our workshop formats, ranging from early-career blockchain enthusiasts to C-level executives seeking updates on overarching trends in web3."
     url = "#"
     button = "Learn more (LINK MISSING)"
-    icon = "icon-rocket"
+    icon = "icon-bulb"
     img = "img_10.jpg"
 
   [params.intro.video]
@@ -304,7 +304,7 @@ theme = "hugo-elate-theme"
   [params.contact]
     enable = true
     map = false
-    form = true
+    form = false
     title = "Get in touch"
     description = ""
     
