@@ -199,7 +199,7 @@ theme = "hugo-elate-theme"
       name = "Prof. Dr. Dr. Paul P. Momtaz"
       position = "Founder of Web3 RL and Professor at TUM"
       description = "Professor Momtaz’s expertise span the full range of tokenization. Wirtschaftswoche ranks him as the top researcher on digital assets in the DACH region."
-      img = "momtaz.webp"
+      img = "momtaz.jpg"
       alt = "Prof. Dr. Dr. Paul P. Momtaz"
       social = [
         # ["icon-twitter", ""],
@@ -210,57 +210,61 @@ theme = "hugo-elate-theme"
       name = "Dr. Valerie Laturnus"
       position = "Research Associate"
       description = "Valerie’s expertise encompasses the impact of blockchain on financial markets and the use of smart contracts in various industries"
-      img = "person2.jpg"
+      img = "Valerie_Laturnus.jpg"
       alt = "Dr. Valerie Laturnus"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-github", "#"],
-        ["icon-linkedin", "#"]
+        # ["icon-github", "#"],
+        ["icon-linkedin", "https://www.linkedin.com/in/valerielaturnus/"]
       ]
 
     [[params.about.item]]
       name = "Martin El-Khouri"
       position = "Research Associate"
       description = "Martin’s expertise centres around the value drivers in Web3; he is a Senior Director at Bertelsmann Investments where he leads the BI Web3 Hub."
-      img = "person3.jpg"
+      img = "Martin_El-Khouri.jpg"
       alt = "Martin El-Khouri"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/el-khouri-m/"]
       ]
 
     [[params.about.item]]
       name = "Johannes Fuchs"
       position = "Research Associate"
       description = "Johannes’s expertise includes the structure and performance of token offerings."
-      img = "person3.jpg"
+      img = "Johannes_Fuchs.jpeg"
       alt = "Johannes Fuchs"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/johannes-fuchs/"]
       ]
 
+   
     [[params.about.item]]
       name = "Hannes Urban"
       position = "Research Associate"
       description = "Hannes’s expertise is in quantitative investment research where he develops machine-learning models to predict token returns."
-      img = "person3.jpg"
+      img = "Hannes_Urban.jpeg"
       alt = "Hannes Urban"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/hannes-urban-ab6411198/"]
       ]
 
-    [[params.about.item]]
+ [[params.about.item]]
       name = "Yusuf Zhang"
       position = "Managing Director at Web3 RL"
       description = "Yusuf’s expertise is in the tokenization of real-world assets, esp. commercial real estate DAOs."
-      img = "person3.jpg"
+      img = "Yusuf.jpg"
       alt = "Yusuf Zhang"
       social = [
         # ["icon-twitter", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/yusufzhang/"]
       ]
+
+
+
 
 
   # Counters section
