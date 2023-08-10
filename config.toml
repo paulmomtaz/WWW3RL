@@ -98,6 +98,12 @@ theme = "hugo-elate-theme"
       alt = "Google"
       title = "Google"
       subtitle = ""
+    
+    [[params.work.row]]
+      img = "FIRM_Logo.jpg"
+      alt = "Frankfurter Institut für Risikomanagement und Regulierung"
+      title = "Frankfurter Institut für Risikomanagement und Regulierung"
+      subtitle = "(FIRM)"
 
     [[params.work.row]]
       img = "CryptoFundResearch_Logo.png"
@@ -112,15 +118,15 @@ theme = "hugo-elate-theme"
       subtitle = ""
 
     [[params.work.row]]
-      img = "FIRM_Logo.jpg"
-      alt = "Frankfurter Institut für Risikomanagement und Regulierung"
-      title = "Frankfurter Institut für Risikomanagement und Regulierung"
-      subtitle = "(FIRM)"
-
-    [[params.work.row]]
       img = "Coinmarketcap_Logo.png"
       alt = "Coinmarketcap"
       title = "Coinmarketcap"
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "FINDT.jpg"
+      alt = "FINDT"
+      title = "FINDT"
       subtitle = ""
 
   # Testimonials section
