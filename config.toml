@@ -132,32 +132,32 @@ theme = "hugo-elate-theme"
 
     [[params.testimonials.item]]
       quote = "&ldquo;With the Web3 Research Lab, Munich now hosts a European powerhouse to advance education and research in web3. I look forward to a flourishing web3 ecosystem in Munich.&rdquo;"
-      person = 'Dr. David An, Partner Dracoon Ventures https://www.linkedin.com/in/davidan'
-      img = "person1.jpg"
+      person = 'Dr. David An, Partner at Dracoon Ventures https://www.linkedin.com/in/davidan'
+      img = "David_An.jpeg"
       alt = "Dr. David An"
 
     [[params.testimonials.item]]
       quote = "&ldquo;Prof. Momtaz and his team are doing globally leading research on blockchain in business with high practical relevance. It is great that the Web3 Research Lab provides an institutional platform to bridge academia and practice.&rdquo;"
-      person = 'Paul Kammerer, CCO www.fincite.de'
-      img = "person1.jpg"
+      person = 'Paul Kammerer, CCO at Fincite https://www.linkedin.com/in/paul-kammerer-8a842861/'
+      img = "Paul_Kammerer.jpeg"
       alt = "Paul Kammerer"
 
     [[params.testimonials.item]]
       quote = "&ldquo;We are proud to have the Web3 Research Lab at TUM as our primary partner for the MunichX accelerator. They are going to play a pivotal role in helping us fostering Munich's Web3 ecosystem by supporting the most promising founders of tomorrow.&rdquo;"
-      person = 'Simon Dedic, Partner www.moonrockcapital.io'
-      img = "person1.jpg"
+      person = 'Simon Dedic, CEO & Partner at Moonrock Capital https://www.linkedin.com/in/simon-dedic-b98768140/'
+      img = "Simon_Dedic.jpeg"
       alt = "Simon Dedic"
 
     [[params.testimonials.item]]
       quote = "&ldquo;The launch of the Web3 Research Lab and the integration of the MunichX Accelerator mark a significant step for Munich's technology ecosystem. Bringing together cutting-edge research and entrepreneurial spirit will enrich the innovation landscape, foster talent, and strengthen Munich as a location for Web3 technologies.&rdquo;"
-      person = 'Florian Peter, VP https://greenfield.bnbchain.org'
-      img = "person3.jpg"
+      person = 'Florian Peter, VP at Greenfield Capital https://www.linkedin.com/in/florian-peter-2b9717a8/'
+      img = "Florian_Peter.jpeg"
       alt = "Florian Peter"
 
     [[params.testimonials.item]]
       quote = "&ldquo;As an alum of TUM, I'm thrilled to see the TUM Web3 Research Lab driving innovation and education in the blockchain realm. TUM breeds great blockchain minds. bitsCrunch is delighted that the Web3 Research Lab is consolidating educational initiatives within and beyond the TUM ecosystem.&rdquo;"
-      person = 'Vijay Pravin, CEO https://bitscrunch.com/'
-      img = "pravin.jpeg"
+      person = 'Vijay Pravin, Founder & CEO at bitsCrunch https://www.linkedin.com/in/vijaypravin/'
+      img = "pravin.jpg"
       alt = "Vijay Pravin"
     
 
