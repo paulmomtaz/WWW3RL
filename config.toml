@@ -215,7 +215,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Dr. Valerie Laturnus"
-      position = ""
+      position = "Research Associate"
       description = "Valerie’s expertise encompasses the impact of blockchain on financial markets and the use of smart contracts in various industries"
       img = "person2.jpg"
       alt = "Dr. Valerie Laturnus"
@@ -227,7 +227,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Martin El-Khouri"
-      position = ""
+      position = "Research Associate"
       description = "Martin’s expertise centres around the value drivers in Web3; he is a Senior Director at Bertelsmann Investments where he leads the BI Web3 Hub."
       img = "person3.jpg"
       alt = "Martin El-Khouri"
@@ -239,7 +239,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Johannes Fuchs"
-      position = ""
+      position = "Research Associate"
       description = "Johannes’s expertise includes the structure and performance of token offerings."
       img = "person3.jpg"
       alt = "Johannes Fuchs"
@@ -251,7 +251,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Hannes Urban"
-      position = ""
+      position = "Research Associate"
       description = "Hannes’s expertise is in quantitative investment research where he develops machine-learning models to predict token returns."
       img = "person3.jpg"
       alt = "Hannes Urban"
@@ -263,7 +263,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Yusuf Zhang"
-      position = ""
+      position = "Managing Director at Web3 RL"
       description = "Yusuf’s expertise is in the tokenization of real-world assets, esp. commercial real estate DAOs."
       img = "person3.jpg"
       alt = "Yusuf Zhang"
