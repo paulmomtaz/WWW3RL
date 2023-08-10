@@ -69,7 +69,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Workshops and Education"
     description = "Our leading digital assets education has brought cutting-edge topics grounded in current research debates to close to 1,000 students. Our stakeholders include undergraduate, graduate, and doctoral students, as well as corporate clients through our workshop formats, ranging from early-career blockchain enthusiasts to C-level executives seeking updates on overarching trends in web3."
-    url = "#"
+    url = "#services"
     button = "Learn more (LINK MISSING)"
     icon = "icon-bulb"
     img = "img_10.jpg"
