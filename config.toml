@@ -187,7 +187,7 @@ theme = "hugo-elate-theme"
     [[params.services.item]]
       title = "W3RL Working Papers"
       description = "The Web3 Research Lab is known for internationally leading research on web3. The W3RL Working Paper Series provides platform for highly specialized academic research on pressing questions of our time."
-      icon = "icon-letter"
+      icon = "icon-graduation-cap"
 
   # About section
   [params.about]
@@ -202,8 +202,7 @@ theme = "hugo-elate-theme"
       img = "momtaz.webp"
       alt = "Prof. Dr. Dr. Paul P. Momtaz"
       social = [
-        ["icon-twitter", ""],
-        ["icon-facebook", "#"],
+        # ["icon-twitter", ""],
         ["icon-linkedin", "https://www.linkedin.com/in/paulmomtaz/"]
       ]
 
@@ -214,8 +213,7 @@ theme = "hugo-elate-theme"
       img = "person2.jpg"
       alt = "Dr. Valerie Laturnus"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
+        # ["icon-twitter", "#"],
         ["icon-github", "#"]
       ]
 
@@ -226,8 +224,7 @@ theme = "hugo-elate-theme"
       img = "person3.jpg"
       alt = "Martin El-Khouri"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
+        # ["icon-twitter", "#"],
         ["icon-dribbble", "#"]
       ]
 
@@ -238,8 +235,7 @@ theme = "hugo-elate-theme"
       img = "person3.jpg"
       alt = "Johannes Fuchs"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
+        # ["icon-twitter", "#"],
         ["icon-dribbble", "#"]
       ]
 
@@ -250,8 +246,7 @@ theme = "hugo-elate-theme"
       img = "person3.jpg"
       alt = "Hannes Urban"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
+        # ["icon-twitter", "#"],
         ["icon-dribbble", "#"]
       ]
 
@@ -262,8 +257,7 @@ theme = "hugo-elate-theme"
       img = "person3.jpg"
       alt = "Yusuf Zhang"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
+        # ["icon-twitter", "#"],
         ["icon-dribbble", "#"]
       ]
 
@@ -333,8 +327,7 @@ theme = "hugo-elate-theme"
     enable = true
     copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
     links = [
-        ["icon-twitter", "#twitter"],
-        ["icon-facebook", "#facebook"],
+        # ["icon-twitter", "#twitter"],
         ["icon-youtube", "#youtube"]
       ]
 
