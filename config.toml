@@ -51,31 +51,31 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Get In Touch"
+    title = "MunichX"
+    description = "Our MunichX accelerator program aims to support and back Web3 pioneers by providing financial resources, extensive expertise, and a network to assist founders in prioritizing their technological development."
+    url = "https://www.munichx.net"
+    button = "Go to MunichX"
     icon = "icon-bulb"
     img = "img_9.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Blockchain Talents @ TUM"
+    description = "Blockchain Talents @ TUM  connects some of the brightest tech and business minds in Europe to corporate partners and industry-led initiatives."
     url = "#"
-    button = "Click Me"
+    button = "Learn more (LINK MISSING)"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Workshops and Education"
+    description = "Our leading digital assets education has brought cutting-edge topics grounded in current research debates to close to 1,000 students. Our stakeholders include undergraduate, graduate, and doctoral students, as well as corporate clients through our workshop formats, ranging from early-career blockchain enthusiasts to C-level executives seeking updates on overarching trends in web3."
     url = "#"
-    button = "Why us?"
+    button = "Learn more (LINK MISSING)"
     icon = "icon-rocket"
     img = "img_10.jpg"
 
   [params.intro.video]
-    enable = true
+    enable = false
     title = "Watch the video"
     icon = "icon-play2"
     url = "https://vimeo.com/channels/staffpicks/93951774"
