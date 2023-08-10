@@ -61,8 +61,8 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Blockchain Talents @ TUM"
     description = "Blockchain Talents @ TUM  connects some of the brightest tech and business minds in Europe to corporate partners and industry-led initiatives."
-    url = "#"
-    button = "Learn more (LINK MISSING)"
+    url = "./documents/TUM_Blockchain_Talents.pdf"
+    button = "Learn more"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
