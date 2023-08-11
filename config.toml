@@ -87,19 +87,17 @@ theme = "hugo-elate-theme"
     title = "Partners"
     description = "Our partners support us in exploring the future of our digital society."
     
+    [[params.work.row]]
+      img = "Deutsche_Bundesbank_Logo3.jpg"
+      alt = "Deutsche Bundesbank"
+      title = "Deutsche Bundesbank"
+      #subtitle = ""
 
     [[params.work.row]]
       img = "Google_Logo.jpg"
       alt = "Google"
       title = "Google"
       #subtitle = ""
-
-    [[params.work.row]]
-      img = "Deutsche_Bundesbank_Logo.jpg"
-      alt = "Deutsche Bundesbank"
-      title = "Deutsche Bundesbank"
-      #subtitle = ""
-
  
     [[params.work.row]]
       img = "FIRM_Logo.jpg"
@@ -141,13 +139,13 @@ theme = "hugo-elate-theme"
     [[params.testimonials.item]]
       quote = "&ldquo;With the Web3 Research Lab, Munich now hosts a European powerhouse to advance education and research in web3. I look forward to a flourishing web3 ecosystem in Munich.&rdquo;"
       person = 'Dr. David An, Partner at Dracoon Ventures https://www.linkedin.com/in/davidan'
-      img = "David_An.jpeg"
+      img = "David_An.jpg"
       alt = "Dr. David An"
 
     [[params.testimonials.item]]
       quote = "&ldquo;Prof. Momtaz and his team are doing globally leading research on blockchain in business with high practical relevance. It is great that the Web3 Research Lab provides an institutional platform to bridge academia and practice.&rdquo;"
       person = 'Paul Kammerer, CCO at Fincite https://www.linkedin.com/in/paul-kammerer-8a842861/'
-      img = "Paul_Kammerer.jpeg"
+      img = "Paul_Kammerer.jpg"
       alt = "Paul Kammerer"
 
     [[params.testimonials.item]]
