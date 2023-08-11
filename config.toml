@@ -100,7 +100,7 @@ theme = "hugo-elate-theme"
       #subtitle = ""
  
     [[params.work.row]]
-      img = "FIRM_Logo.jpg"
+      img = "FIRM_Logo1.jpg"
       alt = "Frankfurter Institut für Risikomanagement und Regulierung"
       title = "FIRM"
       #subtitle = "(FIRM)"
@@ -112,7 +112,7 @@ theme = "hugo-elate-theme"
       #subtitle = ""
 
     [[params.work.row]]
-      img = "Moonrock_Capital_Logo.jpg"
+      img = "Moonrock_Capital_Logo1.jpg"
       alt = "Moonrock Capital"
       title = "Moonrock Capital"
       #subtitle = ""
@@ -124,7 +124,7 @@ theme = "hugo-elate-theme"
       #subtitle = ""
 
     [[params.work.row]]
-      img = "FINDT.jpg"
+      img = "FINDT1.jpg"
       alt = "FINDT"
       title = "FINDT"
       #subtitle = ""
