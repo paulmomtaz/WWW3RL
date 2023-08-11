@@ -86,48 +86,50 @@ theme = "hugo-elate-theme"
     enable = true
     title = "Partners"
     description = "Our partners support us in exploring the future of our digital society."
+    
 
     [[params.work.row]]
-      img = "Deutsche_Bundesbank_Logo.png"
-      alt = "Deutsche Bundesbank"
-      title = "Deutsche Bundesbank"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "Google_Logo.png"
+      img = "Google_Logo.jpg"
       alt = "Google"
       title = "Google"
-      subtitle = ""
-    
+      #subtitle = ""
+
+    [[params.work.row]]
+      img = "Deutsche_Bundesbank_Logo.jpg"
+      alt = "Deutsche Bundesbank"
+      title = "Deutsche Bundesbank"
+      #subtitle = ""
+
+ 
     [[params.work.row]]
       img = "FIRM_Logo.jpg"
       alt = "Frankfurter Institut für Risikomanagement und Regulierung"
-      title = "Frankfurter Institut für Risikomanagement und Regulierung"
-      subtitle = "(FIRM)"
+      title = "FIRM"
+      #subtitle = "(FIRM)"
 
     [[params.work.row]]
-      img = "CryptoFundResearch_Logo.png"
+      img = "CryptoFundResearch_Logo.jpg"
       alt = "CryptoFundResearch"
       title = "CryptoFundResearch"
-      subtitle = ""
+      #subtitle = ""
 
     [[params.work.row]]
       img = "Moonrock_Capital_Logo.jpg"
       alt = "Moonrock Capital"
       title = "Moonrock Capital"
-      subtitle = ""
+      #subtitle = ""
 
     [[params.work.row]]
-      img = "Coinmarketcap_Logo.png"
+      img = "Coinmarketcap_Logo.jpg"
       alt = "Coinmarketcap"
       title = "Coinmarketcap"
-      subtitle = ""
+      #subtitle = ""
 
     [[params.work.row]]
       img = "FINDT.jpg"
       alt = "FINDT"
       title = "FINDT"
-      subtitle = ""
+      #subtitle = ""
 
   # Testimonials section
   [params.testimonials]
