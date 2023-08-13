@@ -90,43 +90,43 @@ theme = "hugo-elate-theme"
     [[params.work.row]]
       img = "Deutsche_Bundesbank_Logo3.jpg"
       alt = "Deutsche Bundesbank"
-      title = "Deutsche Bundesbank"
+      title = ""#"Deutsche Bundesbank"
       #subtitle = ""
 
     [[params.work.row]]
       img = "Google_Logo.jpg"
       alt = "Google"
-      title = "Google"
+      title = ""#"Google"
       #subtitle = ""
  
     [[params.work.row]]
       img = "FIRM_Logo1.jpg"
       alt = "Frankfurter Institut für Risikomanagement und Regulierung"
-      title = "FIRM"
+      title = ""#"FIRM"
       #subtitle = "(FIRM)"
 
     [[params.work.row]]
       img = "CryptoFundResearch_Logo.jpg"
       alt = "CryptoFundResearch"
-      title = "CryptoFundResearch"
+      title = ""#"CryptoFundResearch"
       #subtitle = ""
 
     [[params.work.row]]
       img = "Moonrock_Capital_Logo1.jpg"
       alt = "Moonrock Capital"
-      title = "Moonrock Capital"
+      title = ""#"Moonrock Capital"
       #subtitle = ""
 
     [[params.work.row]]
       img = "Coinmarketcap_Logo.jpg"
       alt = "Coinmarketcap"
-      title = "Coinmarketcap"
+      title = ""#"Coinmarketcap"
       #subtitle = ""
 
     [[params.work.row]]
       img = "FINDT1.jpg"
       alt = "FINDT"
-      title = "FINDT"
+      title = ""#"FINDT"
       #subtitle = ""
 
   # Testimonials section
