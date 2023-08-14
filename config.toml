@@ -266,15 +266,11 @@ theme = "hugo-elate-theme"
         ["icon-linkedin", "https://www.linkedin.com/in/yusufzhang/"]
       ]
 
-
-
-
-
   # Counters section
   [params.counters]
     enable = true
     title = "Stats"
-    background = "full_image_1.jpg"
+    # background = "full_image_1.jpg"
 
     [[params.counters.item]]
       description = "Finished projects"
@@ -333,10 +329,10 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = '&copy; Copyright Web3 Research Lab 2023 | https://github.com/saey55/hugo-elate-theme/'
     links = [
         # ["icon-twitter", "#twitter"],
-        ["icon-youtube", "#youtube"]
+        ["icon-github", "https://github.com/TobiasCGoetz/WWW3RL"]
       ]
 
 [deployment]
