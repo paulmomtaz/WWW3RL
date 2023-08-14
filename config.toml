@@ -124,7 +124,7 @@ theme = "hugo-elate-theme"
       #subtitle = ""
 
     [[params.work.row]]
-      img = "FINDT1.jpg"
+      img = "FINDT2.jpg"
       alt = "FINDT"
       title = ""#"FINDT"
       #subtitle = ""
