@@ -993,7 +993,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .fh5co-person {
-  border: 2px solid #f2f2f2;
+  margin-top: 60px;
+  border: 2px solid var(--TUMroyalblue);
   padding: 80px 30px 30px 30px;
   float: left;
   width: 100%;

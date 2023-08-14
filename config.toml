@@ -165,9 +165,6 @@ theme = "hugo-elate-theme"
       person = 'Vijay Pravin, Founder & CEO at bitsCrunch https://www.linkedin.com/in/vijaypravin/'
       img = "pravin.jpg"
       alt = "Vijay Pravin"
-    
-
-
 
   # Services section
   [params.services]
@@ -203,7 +200,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Prof. Dr. Dr. Paul P. Momtaz"
-      position = "Founder of Web3 RL and Professor at TUM"
+      position = "Web3RL Founder and TUM Professor"
       description = "Professor Momtaz’s expertise span the full range of tokenization. Wirtschaftswoche ranks him as the top researcher on digital assets in the DACH region."
       img = "momtaz.jpg"
       alt = "Prof. Dr. Dr. Paul P. Momtaz"
