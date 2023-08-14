@@ -60,7 +60,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Blockchain Talents @ TUM"
-    description = "Blockchain Talents @ TUM  connects some of the brightest tech and business minds in Europe to corporate partners and industry-led initiatives."
+    description = "Blockchain Talents @ TUM brings together some of the brightest minds in the European technology and business world with corporate partners, ongoing research efforts, and industry-led initiatives."
     url = "./documents/TUM_Blockchain_Talents.pdf"
     button = "Learn more"
     icon = "icon-wrench"
@@ -68,7 +68,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Workshops and Education"
-    description = "Our leading digital assets education has brought cutting-edge topics grounded in current research debates to close to 1,000 students. Our stakeholders include undergraduate, graduate, and doctoral students, as well as corporate clients through our workshop formats, ranging from early-career blockchain enthusiasts to C-level executives seeking updates on overarching trends in web3."
+    description = "Our leading digital assets education has brought cutting-edge topics to close to 1,000 students. Our stakeholders include students, as well as corporate clients, ranging from early-career developers to C-level executives."
     url = "#services"
     button = "Learn more (LINK BROKEN)"
     icon = "icon-bulb"
