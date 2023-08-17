@@ -201,73 +201,73 @@ theme = "hugo-elate-theme"
     
     [[params.paper.row]]
   
-      img = "202001.jpg"
+      img = "202001a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
 
     [[params.paper.row]]
-      img = "202101.jpg"
+      img = "202101a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
  
     [[params.paper.row]]
-      img = "202102.jpg"
+      img = "202102a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
 
     [[params.paper.row]]
-      img = "202103.jpg"
+      img = "202103a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
 
     [[params.paper.row]]
-      img = "202104.jpg"
+      img = "202104a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
  
     [[params.paper.row]]
-      img = "202201.jpg"
+      img = "202201a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
 
     [[params.paper.row]]
-      img = "202202.jpg"
+      img = "202202a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
 
     [[params.paper.row]]
-      img = "202203.jpg"
+      img = "202203a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
  
     [[params.paper.row]]
-      img = "202204.jpg"
+      img = "202204a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
 
     [[params.paper.row]]
-      img = "202301.jpg"
+      img = "202301a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
 
     [[params.paper.row]]
-      img = "202302.jpg"
+      img = "202302a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
  
     [[params.paper.row]]
-      img = "202303.jpg"
+      img = "202303a.jpg"
       alt = ""
       title = ""
       #subtitle = ""
