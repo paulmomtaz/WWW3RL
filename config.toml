@@ -23,6 +23,7 @@ theme = "hugo-elate-theme"
     work = "Partners"
     testimonials = "Testimonials"
     services = "Education"
+    paper = "Research"
     about = "About"
     contact = "Contact"
 
@@ -135,7 +136,6 @@ theme = "hugo-elate-theme"
     title = "Testimonials"
     description = ""
 
-
     [[params.testimonials.item]]
       quote = "&ldquo;With the Web3 Research Lab, Munich now hosts a European powerhouse to advance education and research in web3. I look forward to a flourishing web3 ecosystem in Munich.&rdquo;"
       person = 'Dr. David An, Partner at Dracoon Ventures https://www.linkedin.com/in/davidan'
@@ -191,6 +191,86 @@ theme = "hugo-elate-theme"
       title = "W3RL Working Papers"
       description = "The Web3 Research Lab is known for internationally leading research on web3. The W3RL Working Paper Series provides platform for highly specialized academic research on pressing questions of our time."
       icon = "icon-graduation-cap"
+  
+
+  # Paper section
+  [params.paper]
+    enable = true
+    title = "Research"
+    description = "W3RL Working Paper Series"
+    
+    [[params.paper.row]]
+  
+      img = "202001.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+
+    [[params.paper.row]]
+      img = "202101.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+ 
+    [[params.paper.row]]
+      img = "202102.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+
+    [[params.paper.row]]
+      img = "202103.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+
+    [[params.paper.row]]
+      img = "202104.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+ 
+    [[params.paper.row]]
+      img = "202201.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+
+    [[params.paper.row]]
+      img = "202202.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+
+    [[params.paper.row]]
+      img = "202203.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+ 
+    [[params.paper.row]]
+      img = "202204.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+
+    [[params.paper.row]]
+      img = "202301.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+
+    [[params.paper.row]]
+      img = "202302.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
+ 
+    [[params.paper.row]]
+      img = "202303.jpg"
+      alt = ""
+      title = ""
+      #subtitle = ""
 
   # About section
   [params.about]

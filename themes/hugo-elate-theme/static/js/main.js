@@ -236,6 +236,33 @@
 		}
 	};
 
+	var paperAnimate = function() {
+		if ( $('#fh5co-paper').length > 0 ) {	
+
+			$('#fh5co-paper').waypoint( function( direction ) {
+										
+				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+
+
+					setTimeout(function() {
+						$('#fh5co-paper .to-animate').each(function( k ) {
+							var el = $(this);
+							
+							setTimeout ( function () {
+								el.addClass('fadeInUp animated');
+							},  k * 200, 'easeInOutExpo' );
+							
+						});
+					}, 200);
+
+					
+					$(this.element).addClass('animated');
+						
+				}
+			} , { offset: '80%' } );
+
+		}
+	};
 
 	var testimonialAnimate = function() {
 		var testimonial = $('#fh5co-testimonials');
@@ -463,6 +490,7 @@
 		workAnimate();
 		testimonialAnimate();
 		servicesAnimate();
+		paperAnimate();
 		aboutAnimate();
 		countersAnimate();
 		contactAnimate();
