@@ -6,7 +6,7 @@ theme = "hugo-elate-theme"
 
 [params]
   
-  custom_css = ["css/custom1.css", "css/custom2.css"]
+  custom_css = ["css/carousel.css"]
 
   # Meta
   author = "Prof. Dr. Dr. Momtaz"
@@ -192,10 +192,9 @@ theme = "hugo-elate-theme"
       description = "The Web3 Research Lab is known for internationally leading research on web3. The W3RL Working Paper Series provides platform for highly specialized academic research on pressing questions of our time."
       icon = "icon-graduation-cap"
   
-
   # Paper section
   [params.paper]
-    enable = true
+    enable = false
     title = "Research"
     description = "W3RL Working Paper Series"
     

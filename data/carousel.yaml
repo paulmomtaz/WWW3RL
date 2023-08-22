@@ -1,0 +1,37 @@
+images:
+  - image: /images/work_1.jpg
+    content_html: "Cybercrime and Ethereum"
+    href: "./documents/202303Cybercrime and Ethereum.pdf"
+  - image: /images/work_2.jpg
+    content_html: "The Financial and Non-Financial Performance of Token-Based Crowdfunding"
+    href: "/documents/202302TheFinancialandNoFinancialPerformanceofTokenBasedCrowdfunding.pdf"
+  - image: /images/work_3.jpg
+    content_html: "Performance of Crypto Funds"
+    href: "/documents/202301Performance of Crypto Funds.pdf"
+  - image: /images/work_4.jpg
+    content_html: "Metaverse"
+    href: "/documents/202204Metaverse.pdf"
+  - image: /images/work_1.jpg
+    content_html: "202203DAOs"
+    href: "./documents/202203DAOs.pdf"
+  - image: /images/work_2.jpg
+    content_html: "Decentralized FinanceCrypto Funds"
+    href: "/documents/202202Decentralized FinanceCrypto Funds.pdf"
+  - image: /images/work_3.jpg
+    content_html: "DeFi Efficiency"
+    href: "/documents/202201DeFi Efficiency.pdf"
+  - image: /images/work_4.jpg
+    content_html: "ESG and Token Offerings"
+    href: "/documents/202104ESG and Token Offerings.pdf"
+  - image: /images/work_1.jpg
+    content_html: "The Pricing and Performance of Cryptocurrency"
+    href: "./documents/202103The Pricing and Performance of Cryptocurrency.pdf"
+  - image: /images/work_2.jpg
+    content_html: "Moral Hazard"
+    href: "/documents/202102Moral Hazard.pdf"
+  - image: /images/work_3.jpg
+    content_html: "Institutional Investo"
+    href: "/documents/202101Institutional Investos.pdf"
+  - image: /images/work_4.jpg
+    content_html: "ICOs"
+    href: "./documents/202001ICOs.pdf"
