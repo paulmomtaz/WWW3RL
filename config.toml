@@ -371,32 +371,32 @@ theme = "hugo-elate-theme"
       icon = "icon-briefcase"
       from = 0
       to = 23
-      interval = 50
-      speed = 5000
+      interval = 100
+      speed = 7000
 
     [[params.counters.item]]
       description = "ongoing projects"
       icon = "icon-code"
       from = 0
       to = 6
-      interval = 50
-      speed = 5000
+      interval = 200
+      speed = 2000
 
     [[params.counters.item]]
       description = "students"
       icon = "icon-people"
-      from = 0
+      from = 440
       to = 500
       interval = 50
-      speed = 5000
+      speed = 2000
 
     [[params.counters.item]]
       description = "research downloads"
       icon = "icon-book"
-      from = 0
+      from = 94123
       to = 100000
-      interval = 50
-      speed = 5000
+      interval = 567
+      speed = 94563
 
   # Contact section
   [params.contact]
