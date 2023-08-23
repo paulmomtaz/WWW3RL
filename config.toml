@@ -200,11 +200,6 @@ theme = "hugo-elate-theme"
     [[params.services.item]]
       title = "Online Certificates at Coursera & Co"
       description = "Our education is in high demand. Each months the number of requests for online education on Web3 technologies grows by +2,000 students. We are currently developing together with Coursera certificate programs to bring out leading TUM education to a global audience."
-      icon = "icon-monitor"
-
-    [[params.services.item]]
-      title = "W3RL Working Papers"
-      description = "The Web3 Research Lab is known for internationally leading research on web3. The W3RL Working Paper Series provides platform for highly specialized academic research on pressing questions of our time."
       icon = "icon-graduation-cap"
   
   # Paper section
