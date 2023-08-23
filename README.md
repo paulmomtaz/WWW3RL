@@ -2,11 +2,8 @@
 
 ## TODOs (desc. relevance)
 
- - testimonials link masking
-  => maybe insert linkedin icon?
- - fix "about" style on more browsers
- - Sections ordered colors, repeating pattern (#7f7f7f)
- - "Students", "Downloads" add > or + as text
+ - Fix stlye in more browsers
+ - Select final background colors for sections
  - grid 3x1 education
  - Replace favicon
  - Change baseurl
