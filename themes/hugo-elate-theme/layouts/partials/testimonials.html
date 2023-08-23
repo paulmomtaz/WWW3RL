@@ -19,7 +19,13 @@
 						</blockquote>
 						<div class="author to-animate">
 							<figure><img src="images/{{ .img }}" alt="{{ .alt }}"></figure>
-							<p>{{ .person | markdownify }}</p>
+							<br><br><br>
+							<p>{{ .person | markdownify }}</p><br>
+							<ul class="social social-circle text-center">
+							{{ range .social }}
+								<li><a style="color: #fff" href="{{ index . 1 }}"><i class="{{ index .  0 }}"></i></a></li>
+							{{ end }}
+							</ul>
 						</div>
 					</div>
 				</div>
