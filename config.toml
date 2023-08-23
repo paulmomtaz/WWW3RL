@@ -423,7 +423,7 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Copyright Web3 Research Lab 2023 | https://github.com/saey55/hugo-elate-theme/'
+    copyright = '&copy; Copyright Web3 Research Lab 2023'
     links = [
         # ["icon-twitter", "#twitter"],
         ["icon-github", "https://github.com/TobiasCGoetz/WWW3RL"]
