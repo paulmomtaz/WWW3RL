@@ -20,11 +20,11 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "Web3 Research Lab"
     home = "Home"
+    services = "Education"
+    papers = "Research"
+    about = "Team"
     work = "Partners"
     testimonials = "Testimonials"
-    services = "Education"
-    paper = "Research"
-    about = "About"
     contact = "Contact"
 
     # You can add custom links before or after the default links
@@ -284,7 +284,7 @@ theme = "hugo-elate-theme"
   # About section
   [params.about]
     enable = true
-    title = "About"
+    title = "Team"
     description = ""
 
     [[params.about.item]]
