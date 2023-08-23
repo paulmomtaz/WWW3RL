@@ -4,7 +4,6 @@
 
  - Fix stlye in more browsers
  - Select final background colors for sections
- - grid 3x1 education
  - Replace favicon
  - Change baseurl
  - Configure domain
