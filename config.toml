@@ -84,7 +84,7 @@ theme = "hugo-elate-theme"
 
   # Work section
   [params.work]
-    enable = true
+    enable = false
     title = "Partners"
     description = "Our partners support us in exploring the future of our digital society."
     

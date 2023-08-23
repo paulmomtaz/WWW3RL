@@ -1,0 +1,15 @@
+images:
+  - image: /images/Deutsche_Bundesbank_Logo3.jpg
+    content_html: "Deutsche Bundesbank"
+  - image: /images/Google_Logo.jpg
+    content_html: "Google"
+  - image: /images/Moonrock_Capital_Logo1.jpg
+    content_html: "Moonrock Capital"
+  - image: /images/FIRM_Logo1.jpg
+    content_html: "Frankfurter Institut für Risikomanagement und Regulierung"
+  - image: /images/CryptoFundResearch_Logo.jpg
+    content_html: "CryptoFundResearch"
+  - image: /images/Coinmarketcap_Logo.jpg
+    content_html: "Coinmarketcap"
+  - image: /images/FINDT2.jpg
+    content_html: "FINDT"
