@@ -16,6 +16,8 @@
   --TUMroyalblue: #4889ce;
   --TUMnightrider: #333333;
   --TUMwhite: #ffffff;
+  --ServiceBackgroundColor: var(--TUMnightrider);
+  --CounterBackgroundColor: var(--TUMroyalblue);
 }
 
 body {
@@ -657,15 +659,15 @@ h1, h2, h3, h4, h5, h6 {
   /*color: rgba(255, 255, 255, 0.7);*/
   color: var(--TUMlochmara);
 
-    background-color: var(--TUMnightrider);
+    background-color: var(--ServiceBackgroundColor);
   /* IE9, iOS 3.2+ */
 
-  background-image: -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0, var(--TUMnightrider)), color-stop(1, var(--TUMnightrider)));
+  background-image: -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0, var(--ServiceBackgroundColor)), color-stop(1, var(--ServiceBackgroundColor)));
   /* Android 2.3 */
-  background-image: -webkit-linear-gradient(top left, var(--TUMnightrider) 0%, var(--TUMnightrider) 100%);
+  background-image: -webkit-linear-gradient(top left, var(--ServiceBackgroundColor) 0%, var(--ServiceBackgroundColor) 100%);
   /* IE10+ */
-  background-image: linear-gradient(to bottom right, var(--TUMnightrider) 0%, var(--TUMnightrider) 100%);
-  background-image: -ms-linear-gradient(top left, var(--TUMnightrider) 0%, var(--TUMnightrider) 100%);
+  background-image: linear-gradient(to bottom right, var(--ServiceBackgroundColor) 0%, var(--ServiceBackgroundColor) 100%);
+  background-image: -ms-linear-gradient(top left, var(--ServiceBackgroundColor) 0%, var(--ServiceBackgroundColor) 100%);
 
 }
 #fh5co-services:before, #fh5co-services:after {
@@ -719,7 +721,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-counters {
   background: var(--TUMlochmara);
   overflow: hidden;
-  background-color: transparent;
+  background-color: var(--CounterBackgroundColor);
   background-size: cover;
   background-attachment: fixed;
   position: relative;

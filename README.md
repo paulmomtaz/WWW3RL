@@ -44,6 +44,8 @@ To fit in with the visuals used by TUM we created a [TUM.css](./themes/hugo-elat
  - TUMnightrider
  - TUMwhite
 
+There are also two colors defined for the backgrounds of the Education and Stats section. Please change them at the top if necessary.
+
 ### Content Ordering
 The [index.hmtl](./themes/hugo-elate-theme/layouts/index.html) determines the form of the page, here you can reorder the individual parts.
 
