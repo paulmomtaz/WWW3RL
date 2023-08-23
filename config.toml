@@ -280,7 +280,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Prof. Dr. Dr. Paul P. Momtaz"
       position = "Web3RL Founder and TUM Professor"
-      description = "Professor Momtaz’s expertise span the full range of tokenization. Wirtschaftswoche ranks him as the top researcher on digital assets in the DACH region."
+      description = "Professor Momtaz’ expertise span the full range of tokenization. Wirtschaftswoche ranks him as the top researcher on digital assets in the DACH region."
       img = "momtaz.jpg"
       alt = "Prof. Dr. Dr. Paul P. Momtaz"
       social = [
@@ -314,7 +314,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Johannes Fuchs"
       position = "Research Associate"
-      description = "Johannes’s expertise includes the structure and performance of token offerings."
+      description = "Johannes’ expertise includes the structure and performance of token offerings."
       img = "Johannes_Fuchs.jpeg"
       alt = "Johannes Fuchs"
       social = [
@@ -326,7 +326,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Hannes Urban"
       position = "Research Associate"
-      description = "Hannes’s expertise is in quantitative investment research where he develops machine-learning models to predict token returns."
+      description = "Hannes’ expertise is in quantitative investment research where he develops machine-learning models to predict token returns."
       img = "Hannes_Urban.jpeg"
       alt = "Hannes Urban"
       social = [
