@@ -1,6 +1,13 @@
 {{ .context.Scratch.Set "height" .height }}
 {{ .context.Scratch.Set "unit" .unit }}
 {{ .context.Scratch.Set "items" .items }}
+<section id="fh5co-papers" data-section="papers">
+<div class="container">
+<div class="row">
+  <div class="col-md-12 section-heading text-center">
+    <h2>Papers</h2>
+  </div>
+</div>
 <div id="carousel10" class="carousel" duration="{{ .duration }}" items="{{ .items }}">
     <ul>
         {{ range $index, $slide := .context.Site.Data.carousel.images }}
@@ -26,3 +33,5 @@
     <div class="prev">&lsaquo;</div>
     <div class="next">&rsaquo;</div>
 </div>
+</div>
+</section>
