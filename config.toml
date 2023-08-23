@@ -367,7 +367,7 @@ theme = "hugo-elate-theme"
     # background = "full_image_1.jpg"
 
     [[params.counters.item]]
-      description = "Finished projects"
+      description = "finished projects"
       icon = "icon-briefcase"
       from = 0
       to = 23
@@ -375,7 +375,7 @@ theme = "hugo-elate-theme"
       speed = 5000
 
     [[params.counters.item]]
-      description = "Ongoing Projects"
+      description = "ongoing projects"
       icon = "icon-code"
       from = 0
       to = 6
@@ -383,7 +383,7 @@ theme = "hugo-elate-theme"
       speed = 5000
 
     [[params.counters.item]]
-      description = "Students"
+      description = "students"
       icon = "icon-people"
       from = 0
       to = 500
@@ -391,7 +391,7 @@ theme = "hugo-elate-theme"
       speed = 5000
 
     [[params.counters.item]]
-      description = "Research Downloads"
+      description = "research downloads"
       icon = "icon-book"
       from = 0
       to = 100000
