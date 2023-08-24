@@ -23,14 +23,20 @@ For now all pictures need to be placed in the [static/images folder](./static/im
 All text content is simply added to the [config.toml](./config.toml) in the root of the project. To add an item simply copy an existing item and change it to fit your needs.
 
 ### Papers
-Add the PDF to the [static/documents folder](./static/documents/) and then create a new entry in the slider.
+Add the PDF to the [static/documents folder](./static/documents/) and then create a new entry in the papers slider.
 
-### Slider/Carousel
+### Papers Slider
 The rotating papers are defined in [carousel.yaml](./data/carousel.yaml) in the `/data` folder. There's three parts to add for each entry:
 
  - `image` is the relative path to the image file, beginning with `/images/`
  - `content_html` is treated as a plain text label
  - `href` is the link that clicking on the text label opens, which should be the relative path to the PDF file, beginning with `./documents/`
+
+### Partners Slider
+The rotating papers are defined in [partners.yaml](./data/partners.yaml) in the `/data` folder. There's three parts to add for each entry:
+
+ - `image` is the relative path to the logo file, beginning with `/images/`
+ - `content_html` is treated as alt text and should be the full name
 
 ### TUM Style
 To fit in with the visuals used by TUM we created a [TUM.css](./themes/hugo-elate-theme/static/css/tum.css) that holds the design. Please use the predefined colors:
