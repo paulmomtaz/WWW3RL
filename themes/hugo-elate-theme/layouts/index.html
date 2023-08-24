@@ -36,7 +36,7 @@
        		{{ partial "work.html" .}}
        	{{ end }}
 
-       	<!--{{ partial "partners.html" (dict "context" . "items" "2" "height" "25" "unit" "px" "duration" "2000") }}-->
+       	{{ partial "partners.html" (dict "context" . "items" "2" "height" "120" "unit" "px" "duration" "2000") }}
 
 		{{ if .Site.Params.contact.enable }}
         	{{ partial "contact.html" .}}
