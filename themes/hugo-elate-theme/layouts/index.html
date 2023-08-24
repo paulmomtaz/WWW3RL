@@ -18,7 +18,7 @@
         	{{ partial "services.html" .}}
 		{{ end }}
 
-		{{ partial "carousel.html" (dict "context" . "items" "1" "height" "200" "unit" "px" "duration" "7000") }}
+		{{ partial "papers.html" (dict "context" . "items" "1" "height" "600" "unit" "px" "duration" "7000") }}
 
 		{{ if .Site.Params.about.enable }}
         	{{ partial "about.html" .}}
@@ -36,7 +36,7 @@
        		{{ partial "work.html" .}}
        	{{ end }}
 
-       	{{ partial "partners.html" (dict "context" . "items" "2" "height" "150" "unit" "px" "duration" "2000") }}
+       	<!--{{ partial "partners.html" (dict "context" . "items" "2" "height" "25" "unit" "px" "duration" "2000") }}-->
 
 		{{ if .Site.Params.contact.enable }}
         	{{ partial "contact.html" .}}

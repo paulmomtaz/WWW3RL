@@ -1,39 +1,39 @@
 images:
   - image: /images/20201.jpg
-    content_html: "2020-1"
+    content_html: "Download"
     href: "./documents/202001ICOs.pdf"
   - image: /images/20211.jpg
-    content_html: "2021-1"
+    content_html: "Download"
     href: "/documents/202101Institutional Investos.pdf"
   - image: /images/20212.jpg
-    content_html: "2021-2"
+    content_html: "Download"
     href: "/documents/202102Moral Hazard.pdf"
   - image: /images/20213.jpg
-    content_html: "2021-3"
+    content_html: "Download"
     href: "./documents/202103The Pricing and Performance of Cryptocurrency.pdf"
   - image: /images/20214.jpg
-    content_html: "2021-4"
+    content_html: "Download"
     href: "/documents/202104ESG and Token Offerings.pdf"
   - image: /images/20221.jpg
-    content_html: "2022-1"
+    content_html: "Download"
     href: "/documents/202201DeFi Efficiency.pdf"
   - image: /images/20222.jpg
-    content_html: "2022-2"
+    content_html: "Download"
     href: "/documents/202202Decentralized FinanceCrypto Funds.pdf"
   - image: /images/20223.jpg
-    content_html: "2022-3"
+    content_html: "Download"
     href: "./documents/202203DAOs.pdf"
   - image: /images/20224.jpg
-    content_html: "2022-4"
+    content_html: "Download"
     href: "/documents/202204Metaverse.pdf"
   - image: /images/20231.jpg
-    content_html: "2023-1"
+    content_html: "Download"
     href: "/documents/202301Performance of Crypto Funds.pdf"
   - image: /images/20232.jpg
-    content_html: "2023-2"
+    content_html: "Download"
     href: "/documents/202302TheFinancialandNoFinancialPerformanceofTokenBasedCrowdfunding.pdf"
   - image: /images/20233.jpg
-    content_html: "2023-3"
+    content_html: "Download"
     href: "./documents/202303Cybercrime and Ethereum.pdf"
 
 
