@@ -16,7 +16,7 @@
   --TUMroyalblue: #4889ce;
   --TUMnightrider: #333333;
   --TUMwhite: #ffffff;
-  --ServiceBackgroundColor: var(--TUMnightrider);
+  --ServiceBackgroundColor: var(--TUMwhite);
   --CounterBackgroundColor: var(--TUMroyalblue);
 }
 
@@ -710,10 +710,10 @@ h1, h2, h3, h4, h5, h6 {
   *display: inline;
 }
 #fh5co-services .icon:before {
-  color: #fff;
+  color: var(--TUMroyalblue);
 }
 #fh5co-services .section-heading h2 {
-  color: #fff;
+  color: var(--TUMroyalblue);
 }
 #fh5co-services .section-heading h2.left-border:after {
   background: rgba(255, 255, 255, 0.3);
