@@ -28,12 +28,6 @@
                     <li><a href="#" data-nav-section="about"><span>{{ with .Site.Params.navigation.about }}{{ . | markdownify }}{{ end }}</span></a></li>
                     {{ end }}
 
-                    {{ if .Site.Params.testimonials.enable }}
-                    <li><a href="#" data-nav-section="testimonials"><span>{{ with .Site.Params.navigation.testimonials }}{{ . | markdownify }}{{ end }}</span></a></li> 
-                    {{ end }}
-
-                    <li><a href="#" data-nav-section="partners"><span>{{ with .Site.Params.navigation.work }}{{ . | markdownify }}{{ end }}</span></a></li>
-
                     {{ if .Site.Params.contact.enable }}
                     <li><a href="#" data-nav-section="contact"><span>{{ with .Site.Params.navigation.contact }}{{ . | markdownify }}{{ end }}</span></a></li> 
                     {{ end }}
