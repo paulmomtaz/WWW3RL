@@ -218,6 +218,17 @@ theme = "hugo-elate-theme"
         # ["icon-twitter", ""],
         ["icon-linkedin", "https://www.linkedin.com/in/paulmomtaz/"]
       ]
+      
+    [[params.about.item]]
+      name = "Yusuf Zhang"
+      position = "Managing Director at Web3 RL"
+      description = "Yusuf’s expertise is in the tokenization of real-world assets, esp. commercial real estate DAOs."
+      img = "Yusuf.jpg"
+      alt = "Yusuf Zhang"
+      social = [
+        # ["icon-twitter", "#"],
+        ["icon-linkedin", "https://www.linkedin.com/in/yusufzhang/"]
+      ]
 
     [[params.about.item]]
       name = "Dr. Valerie Laturnus"
@@ -265,16 +276,7 @@ theme = "hugo-elate-theme"
         ["icon-linkedin", "https://www.linkedin.com/in/hannes-urban-ab6411198/"]
       ]
 
- [[params.about.item]]
-      name = "Yusuf Zhang"
-      position = "Managing Director at Web3 RL"
-      description = "Yusuf’s expertise is in the tokenization of real-world assets, esp. commercial real estate DAOs."
-      img = "Yusuf.jpg"
-      alt = "Yusuf Zhang"
-      social = [
-        # ["icon-twitter", "#"],
-        ["icon-linkedin", "https://www.linkedin.com/in/yusufzhang/"]
-      ]
+
 
   # Counters section
   [params.counters]
