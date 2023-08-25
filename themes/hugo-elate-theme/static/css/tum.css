@@ -474,7 +474,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-intro {
   position: relative;
   bottom: 0;
-  margin-top: -150px;
+  margin-top: -330px;
   z-index: 10;
   padding-bottom: 7em;
 }
@@ -511,7 +511,7 @@ h1, h2, h3, h4, h5, h6 {
   flex-grow: 1;
   background-size: cover;
   position: relative;
-  backgroun-repeat: no-repeat;
+  background-repeat: no-repeat;
 }
 @media screen and (max-width: 768px) {
   #fh5co-intro .fh5co-block {
@@ -647,7 +647,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+#fh5co-about {
+  margin-top: 30px;
+}
+
 #fh5co-services {
+  margin-top: -300px;
   top: 0;
   bottom: 0;
   left: 0;
@@ -671,6 +676,7 @@ h1, h2, h3, h4, h5, h6 {
   background-image: -ms-linear-gradient(top left, var(--ServiceBackgroundColor) 0%, var(--ServiceBackgroundColor) 100%);
 
 }
+
 #fh5co-services:before, #fh5co-services:after {
   position: absolute;
   transform: rotate(-1.7deg);
@@ -686,6 +692,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   width: 101%;
 }
+
 #fh5co-services:before {
   top: 0;
   margin-top: -35px;
@@ -694,6 +701,8 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   margin-bottom: -35px;
 }
+
+
 #fh5co-services .fh5co-service {
   padding-right: 30px;
 }
@@ -1065,6 +1074,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-contact {
+  margin-top: 60px;
   padding-bottom: 0;
 }
 #fh5co-contact .fh5co-contact-info {
