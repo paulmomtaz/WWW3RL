@@ -11,5 +11,7 @@ images:
     content_html: "CryptoFundResearch"
   - image: /images/Coinmarketcap_Logo.jpg
     content_html: "Coinmarketcap"
-  - image: /images/FINDT2.jpg
+  - image: /images/FINDT1.jpg
+    content_html: "FINDT"
+  - image: /images/FINDT3.jpg
     content_html: "FINDT"
