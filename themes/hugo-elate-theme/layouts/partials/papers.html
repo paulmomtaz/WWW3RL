@@ -2,14 +2,14 @@
 {{ .context.Scratch.Set "unit" .unit }}
 {{ .context.Scratch.Set "items" .items }}
 <section id="fh5co-papers" class="animated" data-section="papers">
-<div class="container" style="margin-left:40%; width: 20%;">
+<div class="container">
 <div class="row">
   <div class="col-md-12 section-heading text-center">
     <h2 class="to-animate fadeInUp animated">Research</h2>
   </div>
 </div>
-<div class="col-md-12 row text-center" style="width: 120% !important;margin-left:-10%;">
-<div id="carousel10" class="row carousel" duration="{{ .duration }}" items="{{ .items }}">
+<div class="row vertical-center-row text-center">
+<div id="carousel10" class="text-center col-md-4 col-md-offset-4 carousel" style="width: 400px !important;" duration="{{ .duration }}" items="{{ .items }}">
     <ul>
         {{ range $index, $slide := .context.Site.Data.carousel.images }}
           <li id="c10_slide{{ add $index 1}}" style="min-width: calc(100%/{{ $.context.Scratch.Get "items" }}); padding-bottom: {{ $.context.Scratch.Get "height" }}{{ $.context.Scratch.Get "unit" }};"><img src="{{ $slide.image }}"
