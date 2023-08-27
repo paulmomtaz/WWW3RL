@@ -70,8 +70,8 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Workshops and Education"
     description = "Our leading digital assets education has brought cutting-edge topics to close to 1,000 students. Our stakeholders include students, as well as corporate clients, ranging from early-career developers to C-level executives."
-    url = "http://localhost:1313/#"
-    button = "COMING SOON"
+    url = "#services"
+    button = "Learn more (LINK BROKEN)"
     icon = "icon-bulb"
     img = "img_10.jpg"
 
