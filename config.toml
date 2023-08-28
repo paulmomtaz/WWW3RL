@@ -186,7 +186,7 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Education"
-    description = "Our leading digital assets education brings cutting-edge topics grounded in current research debates to various stakeholders. We educate students at all levels, from undergraduate to post-graduate programs, as well as corporate stakeholders, from early-career blockchain enthusiasts seeking foundational knowledge to C-level executives seeking knowledge about overarching trends in web3."
+    description = "Our leading digital assets education brings research-grounded topics to students, from Bachelor's to Ph.D. level, to early-career blockchain enthusiasts and executives."
 
     [[params.services.item]]
       title = "Courses at TUM"
