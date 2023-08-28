@@ -53,7 +53,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "MunichX"
-    description = "Our MunichX accelerator program aims to support and back Web3 pioneers by providing financial resources, extensive expertise, and a network to assist founders in prioritizing their technological development."
+    description = "MunichX accelerates Web3 pioneers by providing financial resources, extensive expertise, and a network to assist founders in prioritizing their technological development."
     url = "https://www.munichx.net"
     button = "Go to MunichX"
     icon = "icon-rocket"
