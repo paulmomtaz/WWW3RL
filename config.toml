@@ -211,7 +211,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Prof. Dr. Dr. Paul P. Momtaz"
-      position = "Web3RL Founder and TUM Professor"
+      position = "Professor at TUM"
       description = "Professor Momtaz’ expertise span the full range of tokenization. Wirtschaftswoche ranks him as the top researcher on digital assets in the DACH region."
       img = "momtaz.jpg"
       alt = "Prof. Dr. Dr. Paul P. Momtaz"
