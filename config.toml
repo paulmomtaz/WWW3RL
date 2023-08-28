@@ -136,6 +136,25 @@ theme = "hugo-elate-theme"
     title = "Testimonials"
     description = ""
 
+    
+    [[params.testimonials.item]]
+      quote = "&ldquo;The launch of the Web3 Research Lab and the integration of the MunichX Accelerator mark a significant step for Munich's technology ecosystem. Bringing together cutting-edge research and entrepreneurial spirit will enrich the innovation landscape, foster talent, and strengthen Munich as a location for Web3 technologies.&rdquo;"
+      person = 'Florian Peter, VP at Greenfield Capital'
+      img = "Florian_Peter.jpeg"
+      alt = "Florian Peter"
+      social = [
+        ["icon-linkedin", "https://www.linkedin.com/in/florian-peter-2b9717a8/"]
+      ]
+
+    [[params.testimonials.item]]
+      quote = "&ldquo;As an alum of TUM, I'm thrilled to see the TUM Web3 Research Lab driving innovation and education in the blockchain realm. TUM breeds great blockchain minds. bitsCrunch is delighted that the Web3 Research Lab is consolidating educational initiatives within and beyond the TUM ecosystem.&rdquo;"
+      person = 'Vijay Pravin, Founder & CEO at bitsCrunch'
+      img = "pravin.jpg"
+      alt = "Vijay Pravin"
+      social = [
+        ["icon-linkedin", "https://www.linkedin.com/in/vijaypravin/"]
+      ]
+    
     [[params.testimonials.item]]
       quote = "&ldquo;With the Web3 Research Lab, Munich now hosts a European powerhouse to advance education and research in web3. I look forward to a flourishing web3 ecosystem in Munich.&rdquo;"
       person = 'Dr. David An, Partner at Dracoon Ventures'
@@ -161,24 +180,6 @@ theme = "hugo-elate-theme"
       alt = "Simon Dedic"
       social = [
         ["icon-linkedin", "https://www.linkedin.com/in/simon-dedic-b98768140/"]
-      ]
-
-    [[params.testimonials.item]]
-      quote = "&ldquo;The launch of the Web3 Research Lab and the integration of the MunichX Accelerator mark a significant step for Munich's technology ecosystem. Bringing together cutting-edge research and entrepreneurial spirit will enrich the innovation landscape, foster talent, and strengthen Munich as a location for Web3 technologies.&rdquo;"
-      person = 'Florian Peter, VP at Greenfield Capital'
-      img = "Florian_Peter.jpeg"
-      alt = "Florian Peter"
-      social = [
-        ["icon-linkedin", "https://www.linkedin.com/in/florian-peter-2b9717a8/"]
-      ]
-
-    [[params.testimonials.item]]
-      quote = "&ldquo;As an alum of TUM, I'm thrilled to see the TUM Web3 Research Lab driving innovation and education in the blockchain realm. TUM breeds great blockchain minds. bitsCrunch is delighted that the Web3 Research Lab is consolidating educational initiatives within and beyond the TUM ecosystem.&rdquo;"
-      person = 'Vijay Pravin, Founder & CEO at bitsCrunch'
-      img = "pravin.jpg"
-      alt = "Vijay Pravin"
-      social = [
-        ["icon-linkedin", "https://www.linkedin.com/in/vijaypravin/"]
       ]
 
   # Services section
