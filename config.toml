@@ -222,7 +222,7 @@ theme = "hugo-elate-theme"
       
     [[params.about.item]]
       name = "Yusuf Zhang"
-      position = "Managing Director at Web3RL"
+      position = "Managing Director at W3RL"
       description = "Yusuf’s expertise is in the tokenization of real-world assets, esp. commercial real estate DAOs."
       img = "Yusuf.jpg"
       alt = "Yusuf Zhang"
