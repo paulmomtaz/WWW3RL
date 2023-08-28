@@ -190,19 +190,19 @@ theme = "hugo-elate-theme"
 
     [[params.services.item]]
       title = "Courses at TUM"
-      description = "Our Blockchain Technology & Digital Assets courses at TUM are in high demand and attract regularly far more students that we can accommodate. If you are a TUM student, please check for announcement in the course catalogue at TUMonline. Also, sign up for Blockchain Talents @ TUM to stay in the loop about new courses, theses, and internship opportunities in the web3 space."
+      description = "Our Blockchain Technology & Digital Assets courses at TUM are in high demand and attract regularly far more students that we can accommodate. If you are a TUM student, please check for announcement in the course catalogue at TUMonline. Also, sign up for Blockchain Talents @ TUM."
       icon = "icon-layers2"
 
     [[params.services.item]]
-      title = "Workshops and Executive Education"
-      description = "We receive many requests from corporates to provide executive education in the form of intensive workshops, both for early-career blockchain enthusiasts to C-level executives having to cope with the fast-moving trends in Web3. If you are interested in our workshop formats, please contact us through the contact form below."
-      icon = "icon-people"
-
-    [[params.services.item]]
-      title = "Online Certificates at Coursera & Co"
-      description = "Our education is in high demand. Each months the number of requests for online education on Web3 technologies grows by +2,000 students. We are currently developing together with Coursera certificate programs to bring out leading TUM education to a global audience."
+      title = "Ph.D. education"
+      description = "No other group in Germany has produced more Web3 Ph.D. candidates. We are now opening up our Ph.D. education to all Ph.D. candidates at German universities, wishing to specialize on web3."
       icon = "icon-graduation-cap"
-  
+ 
+     [[params.services.item]]
+      title = "Workshops and Executive Education"
+      description = "We provide executive education and workshops, both for early-career blockchain enthusiasts and senior executives. If you are interested in our workshop formats, please contact us through the contact form below."
+      icon = "icon-people"
+ 
   # About section
   [params.about]
     enable = true
