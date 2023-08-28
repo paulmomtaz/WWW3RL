@@ -95,17 +95,23 @@ theme = "hugo-elate-theme"
       #subtitle = ""
 
     [[params.work.row]]
-      img = "Google_Logo.jpg"
-      alt = "Google"
-      title = ""#"Google"
+      img = "Coinmarketcap_Logo.jpg"
+      alt = "Coinmarketcap"
+      title = ""#"Coinmarketcap"
       #subtitle = ""
- 
+
     [[params.work.row]]
       img = "FIRM_Logo1.jpg"
       alt = "Frankfurter Institut für Risikomanagement und Regulierung"
       title = ""#"FIRM"
       #subtitle = "(FIRM)"
 
+    [[params.work.row]]
+      img = "Google_Logo.jpg"
+      alt = "Google"
+      title = ""#"Google"
+      #subtitle = ""
+ 
     [[params.work.row]]
       img = "CryptoFundResearch_Logo.jpg"
       alt = "CryptoFundResearch"
@@ -116,12 +122,6 @@ theme = "hugo-elate-theme"
       img = "Moonrock_Capital_Logo1.jpg"
       alt = "Moonrock Capital"
       title = ""#"Moonrock Capital"
-      #subtitle = ""
-
-    [[params.work.row]]
-      img = "Coinmarketcap_Logo.jpg"
-      alt = "Coinmarketcap"
-      title = ""#"Coinmarketcap"
       #subtitle = ""
 
     [[params.work.row]]
@@ -156,6 +156,15 @@ theme = "hugo-elate-theme"
       ]
     
     [[params.testimonials.item]]
+      quote = "&ldquo;We are proud to have the Web3 Research Lab at TUM as our primary partner for the MunichX accelerator. They are going to play a pivotal role in helping us fostering Munich's Web3 ecosystem by supporting the most promising founders of tomorrow.&rdquo;"
+      person = 'Simon Dedic, CEO & Partner at Moonrock Capital'
+      img = "Simon_Dedic.jpeg"
+      alt = "Simon Dedic"
+      social = [
+        ["icon-linkedin", "https://www.linkedin.com/in/simon-dedic-b98768140/"]
+      ]
+    
+    [[params.testimonials.item]]
       quote = "&ldquo;With the Web3 Research Lab, Munich now hosts a European powerhouse to advance education and research in web3. I look forward to a flourishing web3 ecosystem in Munich.&rdquo;"
       person = 'Dr. David An, Partner at Dracoon Ventures'
       img = "David_An.jpg"
@@ -172,16 +181,7 @@ theme = "hugo-elate-theme"
       social = [
         ["icon-linkedin", "https://www.linkedin.com/in/paul-kammerer-8a842861/"]
       ]
-
-    [[params.testimonials.item]]
-      quote = "&ldquo;We are proud to have the Web3 Research Lab at TUM as our primary partner for the MunichX accelerator. They are going to play a pivotal role in helping us fostering Munich's Web3 ecosystem by supporting the most promising founders of tomorrow.&rdquo;"
-      person = 'Simon Dedic, CEO & Partner at Moonrock Capital'
-      img = "Simon_Dedic.jpeg"
-      alt = "Simon Dedic"
-      social = [
-        ["icon-linkedin", "https://www.linkedin.com/in/simon-dedic-b98768140/"]
-      ]
-
+      
   # Services section
   [params.services]
     enable = true
