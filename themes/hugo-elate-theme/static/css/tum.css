@@ -1083,6 +1083,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 1.5em 0;
 }
 #fh5co-contact .fh5co-contact-info li {
+  color: var(--TUMlochmara);
   position: relative;
   padding: 0;
   margin: 0 0 1.5em 0;
