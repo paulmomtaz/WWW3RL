@@ -70,8 +70,8 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Executive Education"
     description = "We provide executive education and workshops, both for early-career blockchain enthusiasts and senior executives. If you are interested in our workshop formats, please contact us through the contact form below."
-    url = "#services"
-    button = "mailto:web3@mgt.tum.de"
+    url = "mailto:web3@mgt.tum.de"
+    button = "Contact us"
     icon = "icon-bulb"
     img = "img_10.jpg"
 
