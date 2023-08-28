@@ -68,10 +68,10 @@ theme = "hugo-elate-theme"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Workshops and Education"
-    description = "Our leading digital assets education has brought cutting-edge topics to close to 1,000 students. Our stakeholders include students, as well as corporate clients, ranging from early-career developers to C-level executives."
+    title = "Executive Education"
+    description = "We provide executive education and workshops, both for early-career blockchain enthusiasts and senior executives. If you are interested in our workshop formats, please contact us through the contact form below."
     url = "#services"
-    button = "Learn more (LINK BROKEN)"
+    button = "mailto:web3@mgt.tum.de"
     icon = "icon-bulb"
     img = "img_10.jpg"
 
@@ -199,8 +199,8 @@ theme = "hugo-elate-theme"
       icon = "icon-graduation-cap"
  
      [[params.services.item]]
-      title = "Executive Education"
-      description = "We provide executive education and workshops, both for early-career blockchain enthusiasts and senior executives. If you are interested in our workshop formats, please contact us through the contact form below."
+      title = "MOOCs"
+      description = "Each months the number of requests for online education on Web3 technologies grows by +2,000 students. We are currently developing certificate programs to bring out TUM web3 education to a global audience."
       icon = "icon-people"
  
   # About section
