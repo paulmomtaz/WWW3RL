@@ -84,51 +84,9 @@ theme = "hugo-elate-theme"
 
   # Work section
   [params.work]
-    enable = false
+    enable = false # WAS REPLACED!
     title = "Partners"
     description = "Our partners support us in exploring the future of our digital society."
-    
-    [[params.work.row]]
-      img = "Deutsche_Bundesbank_Logo3.jpg"
-      alt = "Deutsche Bundesbank"
-      title = ""#"Deutsche Bundesbank"
-      #subtitle = ""
-
-    [[params.work.row]]
-      img = "Coinmarketcap_Logo.jpg"
-      alt = "Coinmarketcap"
-      title = ""#"Coinmarketcap"
-      #subtitle = ""
-
-    [[params.work.row]]
-      img = "FIRM_Logo1.jpg"
-      alt = "Frankfurter Institut für Risikomanagement und Regulierung"
-      title = ""#"FIRM"
-      #subtitle = "(FIRM)"
-
-    [[params.work.row]]
-      img = "Google_Logo.jpg"
-      alt = "Google"
-      title = ""#"Google"
-      #subtitle = ""
- 
-    [[params.work.row]]
-      img = "CryptoFundResearch_Logo.jpg"
-      alt = "CryptoFundResearch"
-      title = ""#"CryptoFundResearch"
-      #subtitle = ""
-
-    [[params.work.row]]
-      img = "Moonrock_Capital_Logo1.jpg"
-      alt = "Moonrock Capital"
-      title = ""#"Moonrock Capital"
-      #subtitle = ""
-
-    [[params.work.row]]
-      img = "FINDT2.jpg"
-      alt = "FINDT"
-      title = ""#"FINDT"
-      #subtitle = ""
 
   # Testimonials section
   [params.testimonials]
