@@ -57,7 +57,7 @@ theme = "hugo-elate-theme"
     url = "https://www.munichx.net"
     button = "Go to MunichX"
     icon = "icon-rocket"
-    img = "img_9.jpg"
+    img = ""
 
   [[params.intro.item]]
     title = "Blockchain Talents @ TUM"
@@ -65,7 +65,7 @@ theme = "hugo-elate-theme"
     url = "./documents/TUM_Blockchain_Talents.pdf"
     button = "Learn more"
     icon = "icon-wrench"
-    img = "img_8.jpg"
+    img = ""
 
   [[params.intro.item]]
     title = "Executive Education"
@@ -73,7 +73,7 @@ theme = "hugo-elate-theme"
     url = "mailto:web3@mgt.tum.de"
     button = "Contact us"
     icon = "icon-bulb"
-    img = "img_10.jpg"
+    img = ""
 
   [params.intro.video]
     enable = false
