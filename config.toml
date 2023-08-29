@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "web3rl.com"
 title = "Web3 Research Lab"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
