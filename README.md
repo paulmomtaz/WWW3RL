@@ -2,11 +2,11 @@
 
 ## TODOs (desc. relevance)
 
- - Fix stlye in more browsers
- - Select final background colors for sections
  - Replace favicon
  - Change baseurl
  - Configure domain
+ - Pull `style="XYZ"` into tum.css from the partial layouts
+ - Remove unused stuff
 
 ## Tech stack
 The page is built with [Hugo](https://github.com/gohugoio/hugo), a Go based fast and modern static site generator. Currently the [Elate template](https://github.com/saey55/hugo-elate-theme/) is being used to style the aestethics and content of the website. The deployment to S3 is based on the [hugo-s3-action](https://github.com/plopcas/hugo-s3-action).
