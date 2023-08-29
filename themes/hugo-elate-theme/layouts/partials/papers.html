@@ -17,7 +17,7 @@
           <div>
             <div>
               {{ if .href }}
-                <a href="{{ .href }}"> {{ $slide.content_html }} </a>
+                <a target="_blank" href="{{ .href }}"> {{ $slide.content_html }} </a>
               {{ else }}
                 {{ $slide.content_html }}
               {{ end }}
