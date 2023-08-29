@@ -3,8 +3,6 @@
 ## TODOs (desc. relevance)
 
  - Replace favicon
- - Change baseurl
- - Configure domain
  - Pull `style="XYZ"` into tum.css from the partial layouts
  - Remove unused stuff
 
