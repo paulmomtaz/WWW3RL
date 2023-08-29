@@ -230,10 +230,11 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   }
   #fh5co-header .navbar-brand {
-    color: var(--TUMlochmara) !important;
+    /*color: var(--TUMlochmara) !important;*/
   }
   #fh5co-header #navbar li a {
-    color: rgba(0, 0, 0, 0.5) !important;
+    /*color: rgba(0, 0, 0, 0.5) !important;*/
+    color: var(--TUMwhite);
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
@@ -247,7 +248,7 @@ h1, h2, h3, h4, h5, h6 {
   #fh5co-header #navbar li.active a {
     background: transparent;
     background: none;
-    color: var(--TUMlochmara) !important;
+    color: var(--TUMnightrider) !important;
   }
   #fh5co-header #navbar li.active a span:before {
     visibility: visible;
@@ -261,10 +262,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-header #navbar li a {
   font-family: "Source Sans Pro", Arial, sans-serif;
-  color: rgba(255, 255, 255, 0.5);
+  /*color: rgba(255, 255, 255, 0.5);*/
+  color: var(--TUMwhite);
   position: relative;
   font-size: 25px;
-  font-weight: 300;
+  font-weight: 400;
   margin-top: 10px;
 }
 #fh5co-header #navbar li a span {
