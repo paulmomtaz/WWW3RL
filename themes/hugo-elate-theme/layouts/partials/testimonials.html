@@ -19,9 +19,9 @@
 						</blockquote>
 						<div class="author to-animate">
 							<figure><img src="images/{{ .img }}" alt="{{ .alt }}"></figure>
-							<ul style="margin-top:10px; height: 40px; width:20%;" class="social social-circle text-center">
+							<ul style="margin-top:10px; height: 40px; width:30%;" class="social social-circle text-center">
 							{{ range .social }}
-								<li><a style="color: #fff;" href="{{ index . 1 }}"><i class="{{ index .  0 }}"></i></a></li>
+								<li><a style="color: #fff;margin-left:-20px;" href="{{ index . 1 }}"><i class="{{ index .  0 }}"></i></a></li>
 							{{ end }}
 							</ul>
 							<p>{{ .person | markdownify }}</p><br>

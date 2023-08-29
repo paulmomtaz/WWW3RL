@@ -828,6 +828,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 4em;
   float: left;
 }
+
 #fh5co-testimonials .box-testimony a {
   color: rgba(255, 255, 255, 0.5);
 }
@@ -889,7 +890,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%;
 }
 #fh5co-testimonials .box-testimony .author p {
-  float: left;
+  float: none;
   margin-top: 10px;
 }
 #fh5co-testimonials .box-testimony .author .subtext {
