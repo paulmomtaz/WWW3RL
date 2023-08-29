@@ -13,19 +13,19 @@
 			<div class="row">
 			{{ range .Site.Params.testimonials.item }}
 				<div class="col-md-4">
-					<div class="box-testimony">
+					<div style="height:20em !important;" class="box-testimony">
 						<blockquote class="to-animate-2">
 							<p>{{ .quote | markdownify}}</p>
 						</blockquote>
 						<div class="author to-animate">
 							<figure><img src="images/{{ .img }}" alt="{{ .alt }}"></figure>
-							<br><br><br>
-							<p>{{ .person | markdownify }}</p><br>
-							<ul class="social social-circle text-center">
+							<ul style="margin-top:10px; height: 40px; width:20%;" class="social social-circle text-center">
 							{{ range .social }}
-								<li><a style="color: #fff" href="{{ index . 1 }}"><i class="{{ index .  0 }}"></i></a></li>
+								<li><a style="color: #fff;" href="{{ index . 1 }}"><i class="{{ index .  0 }}"></i></a></li>
 							{{ end }}
 							</ul>
+							<p>{{ .person | markdownify }}</p><br>
+
 						</div>
 					</div>
 				</div>

@@ -248,7 +248,7 @@ h1, h2, h3, h4, h5, h6 {
   #fh5co-header #navbar li.active a {
     background: transparent;
     background: none;
-    color: var(--TUMnightrider) !important;
+    color: var(--TUMroyalblue) !important;
   }
   #fh5co-header #navbar li.active a span:before {
     visibility: visible;
@@ -337,7 +337,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--TUMlochmara);
 }
 #fh5co-header.navbar-fixed-top #navbar li a {
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--TUMlochmara);
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -348,7 +348,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-header.navbar-fixed-top #navbar li.active a {
   background: transparent;
   background: none;
-  color: var(--TUMlochmara);
+  color: var(--TUMroyalblue);
 }
 #fh5co-header.navbar-fixed-top #navbar li.active a span:before {
   visibility: visible;
@@ -825,8 +825,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-testimonials .box-testimony {
-  margin-bottom: 2em;
-  height: 400px;
+  margin-bottom: 4em;
   float: left;
 }
 #fh5co-testimonials .box-testimony a {
