@@ -292,7 +292,7 @@ theme = "hugo-elate-theme"
         ["icon-home", "Arcisstr. 21, 80333 Munich, Germany"],
         ["icon-phone", "+49 (0) 89 / 289 - 25489"],
         ["icon-envelope", "web3@mgt.tum.de"],
-        ["icon-globe", '<a href="http:s//web3rl.com" target="_blank">web3rl.com</a>']
+        ["icon-globe", 'https://web3rl.com']
       ]
 
     name = "Name"
