@@ -21,7 +21,7 @@
 				</div>
 				{{ if .Site.Params.contact.form }}
 				<div class="col-md-6 to-animate">
-					<form method="post" action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}">
+					<form method="POST" action="https://formspree.io/f/{{ with .Site.Params.formspreeLink }}{{.}}{{ end }}">
 					<div class="form-group ">
 						{{ with .Site.Params.contact.name }}
 						<label for="name" class="sr-only">{{ . | markdownify }}</label>
@@ -34,12 +34,12 @@
 						<input id="email" class="form-control" name="_replyto" placeholder="{{ . }}" type="email">
 						{{ end }}
 					</div>
-					<div class="form-group ">
+					<!--<div class="form-group ">
 						{{ with .Site.Params.contact.phone }}
 						<label for="phone" class="sr-only">{{ . | markdownify }}</label>
 						<input id="phone" class="form-control" name="phone" placeholder="{{ . }}" type="text">
 						{{ end }}
-					</div>
+					</div>-->
 					<div class="form-group ">
 						{{ with .Site.Params.contact.message }}
 						<label for="message" class="sr-only">{{ . | markdownify }}</label>

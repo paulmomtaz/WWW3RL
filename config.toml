@@ -13,6 +13,9 @@ theme = "hugo-elate-theme"
   description = "TUM Web3 Research Lab"
   email = "karin.papavlassopoulos(at)tum.de"
 
+  # Formspree
+  formspreeLink = "xyyqjyjk"
+
   # Google Maps Javascript API Key (if not set will default to not passing a key)
   googleMapsApiKey = ""
 
@@ -283,7 +286,7 @@ theme = "hugo-elate-theme"
   [params.contact]
     enable = true
     map = false
-    form = false
+    form = true
     title = "Get in touch"
     description = ""
     
