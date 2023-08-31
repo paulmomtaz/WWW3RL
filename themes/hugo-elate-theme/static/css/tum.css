@@ -478,7 +478,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   margin-top: -330px;
   z-index: 10;
-  padding-bottom: 7em;
+  padding-bottom: 1em;
 }
 @media screen and (max-width: 768px) {
   #fh5co-intro {
@@ -654,7 +654,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-services {
-  margin-top: -300px;
+  margin-top: -3em;
   top: 0;
   bottom: 0;
   left: 0;
