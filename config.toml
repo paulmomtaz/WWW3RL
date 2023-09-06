@@ -178,7 +178,18 @@ theme = "hugo-elate-theme"
         # ["icon-twitter", ""],
         ["icon-linkedin", "https://www.linkedin.com/in/paulmomtaz/"]
       ]
-      
+    
+    [[params.about.item]]
+      name = "Prof. Dr. Jürgen Ernstberger"
+      position = "Professor at TUM"
+      description = "Professor Ernstberger’s expertise includes all topics in financial accounting and Decentralized Finance (DeFi)."
+      img = "Ernstberger.jpg"
+      alt = "Prof. Dr. Jürgen Ernstberger"
+      social = [
+        # ["icon-twitter", ""],
+        ["icon-linkedin", "https://www.linkedin.com/in/j%C3%BCrgen-ernstberger-a38181131/"]
+      ]
+
     [[params.about.item]]
       name = "Yusuf Zhang"
       position = "Managing Director at W3RL"
@@ -200,6 +211,18 @@ theme = "hugo-elate-theme"
         # ["icon-twitter", "#"],
         # ["icon-github", "#"],
         ["icon-linkedin", "https://www.linkedin.com/in/valerielaturnus/"]
+      ]
+
+     [[params.about.item]]
+      name = "Dr. Mario Keiling"
+      position = "Research Associate"
+      description = "Mario’s expertise centres around the law and accounting of digital assets, esp. under the German regulatory framework."
+      img = "mario.jpg"
+      alt = "Dr. Mario Keiling"
+      social = [
+        # ["icon-twitter", "#"],
+        # ["icon-github", "#"],
+        ["icon-linkedin", "https://www.linkedin.com/in/dr-mario-keiling-19905ab3/"]
       ]
 
     [[params.about.item]]
